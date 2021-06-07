@@ -1,0 +1,9 @@
+curl.exe "https://www.ura.gov.sg/uraDataService/insertNewToken.action" -H "AccessKey:79e4132b-4369-40e8-992b-b39ee5ade86f"
+curl.exe "https://www.ura.gov.sg/uraDataService/invokeUraDS?service=Car_Park_Availability" -H "AccessKey:79e4132b-4369-40e8-992b-b39ee5ade86f" -H "Token:45R76B9s-cA9-c4WCd2b4NQQGeyMk@Ye7a6Ed1CY48PVPaeS72HeA70993b34JeswAA9eQe6dw2-b94-B0A8evMba383eGKb8Wdm" > ura.txt
+"https://www.ura.gov.sg/uraDataService/invokeUraDS?service=Car_Park_Details"
+curl.exe -X GET "https://api.data.gov.sg/v1/transport/carpark-availability" -H  "accept: application/json" > a.txt
+
+https://www.ura.gov.sg/maps/api/#car-park-list-and-rates 
+
+LTA carpark URA data is a subset of URA API data 147->129
+89zxP4sMbVfb2SbtR9CVfes4N5zpRe4qw8Bv29-eze9zf284Ee3Tnab6eyWGefbPfXh@63mHvFbbRd-2x4VQjy9986meN4g3dK3P

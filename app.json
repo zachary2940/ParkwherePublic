@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Parkwhere",
+    "slug": "Parkwhere",
+    "version": "2.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.TidBit.Parkwhere",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.TidBit.Parkwhere",
+      "config": {
+        "googleMaps": {
+          "apiKey": "ask me for keys"
+        }
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "versionCode": 21
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
