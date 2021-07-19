@@ -6,7 +6,7 @@ For example, the location of the carpark is shifted to another side of the build
 ## Tech
 This project uses React Native with js/ts and expo for the front end and golang/python for the backend. It also uses AWS for serverless architecture. The data is taken from data.gov.sg real time and static APIs and LTA/URA APIs.
 
-## Download Here
+## Try it out here!
 https://play.google.com/store/apps/details?id=com.TidBit.Parkwhere
 
 ## References
