@@ -7,10 +7,10 @@ For example, the location of the carpark is shifted to another side of the build
 This project uses React Native with js/ts and expo for the front end and golang/python for the backend. It also uses AWS for serverless architecture. The data is taken from data.gov.sg real time and static APIs and LTA/URA APIs.
 
 ## References
-  https://medium.com/how-to-react/how-to-use-redux-with-react-hooks-and-axios-a78d942fbe9c
-  https://blog.logrocket.com/designing-a-ui-with-custom-theming-using-react-native-paper/
-  https://github.com/Karniej/Crypto-Info
-  https://gist.github.com/graydon/11198540
+  1) https://medium.com/how-to-react/how-to-use-redux-with-react-hooks-and-axios-a78d942fbe9c
+  2) https://blog.logrocket.com/designing-a-ui-with-custom-theming-using-react-native-paper/
+  3) https://github.com/Karniej/Crypto-Info
+  4) https://gist.github.com/graydon/11198540
 
 
 
